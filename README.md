@@ -1,1 +1,4 @@
-# test_exercise_django_api
+Acits Backend Test Task
+
+basic django API with using Django Rest Framework
+documentation - swagger
